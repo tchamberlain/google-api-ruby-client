@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'google/apis/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'google-api-client'
+  spec.name          = 'google-api-client9'
   spec.version       = Google::Apis::VERSION
   spec.authors       = ['Steven Bazyl', 'Tim Emiola', 'Sergio Gomes', 'Bob Aman']
   spec.email         = ['sbazyl@google.com']
